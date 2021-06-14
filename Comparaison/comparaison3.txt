@@ -1,0 +1,766 @@
+Line Number:1 youtube.com 216.58.198.206
+ youtube.com 142.250.179.78
+Line Number:2 google.com 216.58.213.78
+ google.com 142.250.201.174
+Line Number:3 facebook.com 157.240.196.35
+ facebook.com 157.240.195.35
+Line Number:4 yahoo.com 98.137.11.163
+ yahoo.com 74.6.143.25
+Line Number:5 google.co.in 216.58.206.227
+ google.co.in 142.250.179.99
+Line Number:6 qq.com 183.3.226.35
+ qq.com 61.129.7.47
+Line Number:7 taobao.com 140.205.220.96
+ taobao.com 140.205.94.189
+Line Number:8 tmall.com 140.205.130.99
+ tmall.com 140.205.94.193
+Line Number:9 twitter.com 104.244.42.65
+ twitter.com 104.244.42.129
+Line Number:10 vk.com 87.240.137.158
+ vk.com 87.240.190.78
+Line Number:11 instagram.com 52.22.152.92
+ instagram.com 52.2.163.159
+Line Number:12 google.co.jp 216.58.204.99
+ google.co.jp 142.250.179.99
+Line Number:13 jd.com 211.144.24.218
+ jd.com 211.144.27.126
+Line Number:14 360.cn 36.110.213.10
+ 360.cn 36.99.170.84
+Line Number:15 yandex.ru 77.88.55.77
+ yandex.ru 77.88.55.80
+Line Number:16 google.de 216.58.215.35
+ google.de 172.217.18.195
+Line Number:17 google.com.br 142.250.74.227
+ google.com.br 216.58.201.227
+Line Number:18 google.co.uk 216.58.215.35
+ google.co.uk 216.58.213.131
+Line Number:19 netflix.com 54.155.246.232
+ netflix.com 54.73.148.110
+Line Number:20 google.ru 142.250.75.227
+ google.ru 216.58.204.99
+Line Number:21 google.fr 216.58.198.195
+ google.fr 172.217.22.131
+Line Number:22 twitch.tv 151.101.130.167
+ twitch.tv 151.101.2.167
+Line Number:23 login.tmall.com 47.246.49.234
+ login.tmall.com 47.246.49.233
+Line Number:24 xvideos.com 185.88.181.10
+ xvideos.com 185.88.181.2
+Line Number:25 google.it 216.58.215.35
+ google.it 142.250.75.227
+Line Number:26 alipay.com 110.75.139.5
+ alipay.com 110.75.129.5
+Line Number:27 google.com.hk 142.250.74.227
+ google.com.hk 216.58.206.227
+Line Number:28 google.es 142.250.178.131
+ google.es 172.217.18.195
+Line Number:29 ebay.com 66.211.175.229
+ ebay.com 64.4.253.77
+Line Number:30 yahoo.co.jp 182.22.59.229
+ yahoo.co.jp 183.79.135.206
+Line Number:31 google.com.mx 142.250.179.99
+ google.com.mx 142.250.74.227
+Line Number:32 google.ca 172.217.22.131
+ google.ca 142.250.74.227
+Line Number:33 bing.com 204.79.197.200
+ bing.com 13.107.21.200
+Line Number:34 ok.ru 217.20.147.1
+ ok.ru 5.61.23.11
+Line Number:35 hao123.com 39.156.68.154
+ hao123.com 110.242.69.86
+Line Number:36 imgur.com 151.101.60.193
+ imgur.com 151.101.16.193
+Line Number:37 imdb.com 52.94.228.167
+ imdb.com 52.94.237.74
+Line Number:38 mail.ru 94.100.180.200
+ mail.ru 217.69.139.200
+Line Number:39 pages.tmall.com 47.246.49.233
+ pages.tmall.com 47.246.49.234
+Line Number:40 wikia.com 151.101.128.194
+ wikia.com 151.101.0.194
+Line Number:41 google.com.tr 216.58.213.67
+ google.com.tr 172.217.18.195
+Line Number:42 amazon.co.jp 52.119.161.5
+ amazon.co.jp 52.119.164.121
+Line Number:43 wordpress.com 192.0.78.17
+ wordpress.com 192.0.78.9
+Line Number:44 xhamster.com 104.18.155.3
+ xhamster.com 104.18.156.3
+Line Number:45 google.com.au 216.58.201.227
+ google.com.au 216.58.215.35
+Line Number:46 bongacams.com 195.85.23.89
+ bongacams.com 195.85.23.88
+Line Number:47 google.com.tw 142.250.179.67
+ google.com.tw 216.58.215.35
+Line Number:48 blogspot.com 142.250.201.169
+ blogspot.com 216.58.198.201
+Line Number:49 google.pl 216.58.213.67
+ google.pl 216.58.204.99
+Line Number:50 whatsapp.com 157.240.195.56
+ whatsapp.com 157.240.196.60
+Line Number:51 google.co.id 216.58.213.163
+ google.co.id 216.58.209.227
+Line Number:52 popads.net 216.21.13.13
+ popads.net 216.21.13.12
+Line Number:53 paypal.com 64.4.250.36
+ paypal.com 64.4.250.37
+Line Number:54 github.com 140.82.121.3
+ github.com 140.82.121.4
+Line Number:55 stackoverflow.com 151.101.193.69
+ stackoverflow.com 151.101.129.69
+Line Number:56 tribunnews.com 52.84.49.102
+ tribunnews.com 52.84.49.79
+Line Number:57 google.com.ar 172.217.19.227
+ google.com.ar 216.58.213.67
+Line Number:58 pinterest.com 151.101.128.84
+ pinterest.com 151.101.0.84
+Line Number:59 xnxx.com 185.88.181.59
+ xnxx.com 185.88.181.58
+Line Number:60 amazon.de 54.239.39.102
+ amazon.de 176.32.108.185
+Line Number:61 google.com.eg 216.58.213.67
+ google.com.eg 142.250.74.227
+Line Number:62 diply.com 151.101.1.131
+ diply.com 151.101.129.131
+Line Number:63 google.co.th 142.250.75.227
+ google.co.th 216.58.214.67
+Line Number:64 espn.com 54.192.66.57
+ espn.com 52.84.49.101
+Line Number:65 adobe.com 23.39.160.49
+ adobe.com 92.123.239.11
+Line Number:66 google.com.sa 216.58.214.163
+ google.com.sa 142.250.179.99
+Line Number:67 chaturbate.com 104.18.101.40
+ chaturbate.com 104.18.100.40
+Line Number:68 mozilla.org 44.236.48.31
+ mozilla.org 44.236.72.93
+Line Number:69 amazon.in 52.95.120.67
+ amazon.in 52.95.116.115
+Line Number:70 thestartmagazine.com 151.101.194.132
+ thestartmagazine.com 151.101.2.132
+Line Number:71 bbc.com 151.101.128.81
+ bbc.com 151.101.0.81
+Line Number:72 detail.tmall.com 61.155.222.102
+ detail.tmall.com 120.39.202.145
+Line Number:73 google.com.ua 142.250.178.131
+ google.com.ua 216.58.201.227
+Line Number:74 soundcloud.com 54.192.66.35
+ soundcloud.com 52.84.49.55
+Line Number:75 txxx.com 172.64.104.5
+ txxx.com 172.64.165.30
+Line Number:76 ask.com 151.101.114.114
+ ask.com 151.101.14.114
+Line Number:77 google.nl 142.250.179.99
+ google.nl 216.58.213.163
+Line Number:78 google.com.pk 142.250.178.131
+ google.com.pk 216.58.214.67
+Line Number:79 quora.com 3.228.199.81
+ quora.com 34.237.36.29
+Line Number:80 ebay.de 64.4.253.29
+ ebay.de 66.211.175.229
+Line Number:81 google.co.ve 216.58.201.227
+ google.co.ve 216.58.204.131
+Line Number:82 cnn.com 151.101.129.67
+ cnn.com 151.101.193.67
+Line Number:83 fc2.com 52.11.75.29
+ fc2.com 44.237.191.118
+Line Number:84 nytimes.com 151.101.65.164
+ nytimes.com 151.101.129.164
+Line Number:85 google.co.za 142.250.74.227
+ google.co.za 216.58.214.67
+Line Number:86 detik.com 203.190.242.211
+ detik.com 103.49.221.211
+Line Number:87 google.gr 216.58.206.227
+ google.gr 216.58.213.67
+Line Number:88 google.com.vn 142.250.74.227
+ google.com.vn 216.58.204.99
+Line Number:89 google.co.ao 172.217.18.195
+ google.co.ao 142.250.74.227
+Line Number:90 google.az 142.250.201.164
+ google.az 216.58.213.164
+Line Number:91 google.se 142.250.179.67
+ google.se 142.250.75.227
+Line Number:92 ntd.tv 172.67.12.66
+ ntd.tv 104.22.65.127
+Line Number:93 chase.com 159.53.84.126
+ chase.com 159.53.85.137
+Line Number:94 doubleclick.net 172.217.19.238
+ doubleclick.net 142.250.179.78
+Line Number:95 ebay.co.uk 209.140.148.143
+ ebay.co.uk 64.4.253.29
+Line Number:96 google.com.ph 216.58.214.67
+ google.com.ph 142.250.179.67
+Line Number:97 theguardian.com 151.101.1.111
+ theguardian.com 151.101.65.111
+Line Number:98 deviantart.com 54.240.167.35
+ deviantart.com 54.192.219.115
+Line Number:99 google.com.sg 216.58.204.99
+ google.com.sg 216.58.201.227
+Line Number:100 google.com.co 172.217.22.131
+ google.com.co 216.58.213.131
+Line Number:101 google.be 142.250.178.131
+ google.be 216.58.201.227
+Line Number:102 aparat.com 185.147.178.11
+ aparat.com 185.147.178.12
+Line Number:103 vimeo.com 151.101.192.217
+ vimeo.com 151.101.64.217
+Line Number:104 flipkart.com 163.53.78.110
+ flipkart.com 163.53.76.86
+Line Number:105 4chan.org 104.19.128.108
+ 4chan.org 104.19.129.108
+Line Number:106 google.cn 142.250.179.99
+ google.cn 216.58.214.163
+Line Number:107 google.com.pe 172.217.18.195
+ google.com.pe 142.250.201.163
+Line Number:108 google.at 216.58.215.35
+ google.at 172.217.19.227
+Line Number:109 google.com.ng 216.58.214.163
+ google.com.ng 142.250.74.227
+Line Number:110 etsy.com 151.101.129.224
+ etsy.com 151.101.1.224
+Line Number:111 epicgames.com 3.209.208.106
+ epicgames.com 54.146.195.75
+Line Number:112 google.cz 142.250.74.227
+ google.cz 216.58.213.131
+Line Number:113 wikihow.com 151.101.2.137
+ wikihow.com 151.101.66.137
+Line Number:114 mercadolivre.com.br 54.192.219.84
+ mercadolivre.com.br 54.192.219.23
+Line Number:115 indeed.com 169.45.207.192
+ indeed.com 169.45.207.200
+Line Number:116 ladbible.com 104.17.97.32
+ ladbible.com 104.17.98.32
+Line Number:117 washingtonpost.com 52.84.49.51
+ washingtonpost.com 23.37.45.67
+Line Number:118 slideshare.net 18.215.7.68
+ slideshare.net 18.214.166.177
+Line Number:119 dailymail.co.uk 92.122.90.209
+ dailymail.co.uk 23.56.176.193
+Line Number:120 google.no 216.58.214.67
+ google.no 216.58.213.67
+Line Number:121 google.ae 216.58.204.131
+ google.ae 216.58.213.67
+Line Number:122 buzzfeed.com 54.192.219.45
+ buzzfeed.com 54.192.219.68
+Line Number:123 google.ch 216.58.213.67
+ google.ch 142.250.75.227
+Line Number:124 dkn.tv 104.18.10.142
+ dkn.tv 104.18.11.142
+Line Number:125 google.pt 142.250.179.67
+ google.pt 216.58.213.67
+Line Number:126 messenger.com 157.240.195.17
+ messenger.com 157.240.196.17
+Line Number:127 google.cl 142.250.179.99
+ google.cl 216.58.209.227
+Line Number:128 coinmarketcap.com 104.17.141.178
+ coinmarketcap.com 104.17.139.178
+Line Number:129 hclips.com 172.64.171.29
+ hclips.com 104.21.235.111
+Line Number:130 metropcs.mobi 54.192.66.88
+ metropcs.mobi 54.192.66.122
+Line Number:131 youm7.com 104.18.7.4
+ youm7.com 104.18.6.4
+Line Number:132 bilibili.com 110.43.34.66
+ bilibili.com 119.3.70.188
+Line Number:133 amazon.fr 52.95.120.39
+ amazon.fr 54.239.33.91
+Line Number:134 google.dz 216.58.206.227
+ google.dz 142.250.75.227
+Line Number:135 eastday.com 222.73.244.10
+ eastday.com 61.129.65.103
+Line Number:136 tripadvisor.com 192.229.189.15
+ tripadvisor.com 192.229.182.112
+Line Number:137 kompas.com 52.74.58.8
+ kompas.com 52.220.212.34
+Line Number:138 livejournal.com 81.19.74.3
+ livejournal.com 81.19.74.0
+Line Number:139 upornia.com 172.64.200.22
+ upornia.com 172.64.201.22
+Line Number:140 researchgate.net 104.17.32.105
+ researchgate.net 104.17.33.105
+Line Number:141 lifedaily.com 104.18.241.101
+ lifedaily.com 104.18.242.101
+Line Number:142 zillow.com 54.240.167.128
+ zillow.com 216.137.37.110
+Line Number:143 abs-cbn.com 196.14.9.17
+ abs-cbn.com 197.80.131.249
+Line Number:144 google.ie 216.58.213.67
+ google.ie 172.217.18.195
+Line Number:145 gamespot.com 151.101.66.154
+ gamespot.com 151.101.2.154
+Line Number:146 blogger.com 216.58.215.41
+ blogger.com 172.217.18.201
+Line Number:147 google.hu 216.58.215.35
+ google.hu 142.250.201.163
+Line Number:148 google.dk 142.250.179.67
+ google.dk 216.58.214.67
+Line Number:149 wellsfargo.com 159.45.66.143
+ wellsfargo.com 159.45.170.143
+Line Number:150 indiatimes.com 104.93.241.50
+ indiatimes.com 104.121.13.112
+Line Number:151 intuit.com 2.18.101.225
+ intuit.com 104.69.109.20
+Line Number:152 discordapp.com 162.159.134.233
+ discordapp.com 162.159.129.233
+Line Number:153 leboncoin.fr 54.192.219.114
+ leboncoin.fr 216.137.37.45
+Line Number:154 ign.com 151.101.193.135
+ ign.com 151.101.65.135
+Line Number:155 google.co.il 216.58.204.131
+ google.co.il 142.250.201.163
+Line Number:156 weather.com 104.120.60.21
+ weather.com 23.196.201.21
+Line Number:157 bles.com 104.18.15.124
+ bles.com 104.18.14.124
+Line Number:158 ouo.io 104.22.22.162
+ ouo.io 172.67.6.151
+Line Number:159 rt.com 82.202.190.90
+ rt.com 207.244.80.179
+Line Number:160 forbes.com 151.101.66.49
+ forbes.com 151.101.130.49
+Line Number:161 indoxxi.tv 104.21.23.78
+ indoxxi.tv 172.67.209.204
+Line Number:162 foxnews.com 23.213.165.73
+ foxnews.com 104.78.177.82
+Line Number:163 amazon.es 52.95.120.38
+ amazon.es 52.95.116.112
+Line Number:164 google.sk 216.58.198.195
+ google.sk 216.58.209.227
+Line Number:165 olx.ua 54.240.167.16
+ olx.ua 216.137.37.80
+Line Number:166 9gag.com 104.16.105.144
+ 9gag.com 104.16.107.144
+Line Number:167 adexchangemachine.com 104.16.172.19
+ adexchangemachine.com 104.16.173.19
+Line Number:168 irctc.co.in 103.252.142.19
+ irctc.co.in 103.252.142.21
+Line Number:169 digitaldsp.com 139.45.197.203
+ digitaldsp.com 139.45.197.202
+Line Number:170 siteadvisor.com 161.69.17.94
+ siteadvisor.com 161.69.25.181
+Line Number:171 mmoframes.com 104.21.235.212
+ mmoframes.com 104.21.235.211
+Line Number:172 google.co.kr 216.58.209.227
+ google.co.kr 142.250.178.131
+Line Number:173 airbnb.com 3.221.254.238
+ airbnb.com 52.71.2.175
+Line Number:174 google.kz 172.217.18.196
+ google.kz 142.250.201.164
+Line Number:175 amazon.ca 52.94.225.242
+ amazon.ca 54.239.18.172
+Line Number:176 velocecdn.com 104.17.172.62
+ velocecdn.com 104.17.173.62
+Line Number:177 pinimg.com 151.101.192.84
+ pinimg.com 151.101.0.84
+Line Number:178 huffingtonpost.com 52.84.49.12
+ huffingtonpost.com 13.32.144.74
+Line Number:179 varzesh3.com 94.182.163.51
+ varzesh3.com 94.182.163.52
+Line Number:180 subscene.com 104.27.207.92
+ subscene.com 104.27.206.92
+Line Number:181 asos.com 95.100.171.129
+ asos.com 2.21.85.184
+Line Number:182 gearbest.com 52.89.107.175
+ gearbest.com 34.217.151.167
+Line Number:183 goodreads.com 52.94.237.126
+ goodreads.com 54.239.26.220
+Line Number:184 hdzog.com 172.64.99.14
+ hdzog.com 104.21.235.37
+Line Number:185 iqiyi.com 111.206.13.63
+ iqiyi.com 111.206.13.64
+Line Number:186 flickr.com 54.240.175.118
+ flickr.com 52.84.38.122
+Line Number:187 udemy.com 104.16.66.85
+ udemy.com 104.16.65.85
+Line Number:188 slack.com 3.10.95.11
+ slack.com 3.123.248.34
+Line Number:189 wetransfer.com 99.81.107.82
+ wetransfer.com 99.81.150.177
+Line Number:190 quizlet.com 104.16.18.221
+ quizlet.com 104.16.17.221
+Line Number:191 nextlnk1.com 94.229.72.125
+ nextlnk1.com 94.229.72.118
+Line Number:192 list.tmall.com 203.119.169.156
+ list.tmall.com 203.119.169.7
+Line Number:193 okdiario.com 172.67.22.106
+ okdiario.com 104.22.14.99
+Line Number:194 aliyun.com 106.11.249.99
+ aliyun.com 106.11.253.83
+Line Number:195 accuweather.com 104.94.13.164
+ accuweather.com 23.222.30.72
+Line Number:196 doublepimp.com 192.152.95.130
+ doublepimp.com 192.152.95.129
+Line Number:197 sabah.com.tr 194.36.160.15
+ sabah.com.tr 194.36.160.50
+Line Number:198 google.com.kw 216.58.198.195
+ google.com.kw 172.217.18.195
+Line Number:199 t-online.de 62.138.239.100
+ t-online.de 62.138.238.100
+Line Number:200 gismeteo.ru 185.134.202.21
+ gismeteo.ru 185.134.201.5
+Line Number:201 googlevideo.com 216.58.206.228
+ googlevideo.com 216.58.209.228
+Line Number:202 eyny.com 75.126.123.82
+ eyny.com 52.117.224.157
+Line Number:203 leagueoflegends.com 18.196.34.155
+ leagueoflegends.com 18.192.31.68
+Line Number:204 businessinsider.com 151.101.65.171
+ businessinsider.com 151.101.1.171
+Line Number:205 target.com 151.101.194.187
+ target.com 151.101.66.187
+Line Number:206 debate.com.mx 104.22.3.205
+ debate.com.mx 172.67.23.76
+Line Number:207 repubblica.it 52.84.49.63
+ repubblica.it 52.84.49.36
+Line Number:208 nike.com 54.192.66.67
+ nike.com 52.84.49.55
+Line Number:209 primevideo.com 54.192.66.43
+ primevideo.com 52.84.49.70
+Line Number:210 informationvine.com 151.101.114.114
+ informationvine.com 151.101.14.114
+Line Number:211 momoshop.com.tw 175.99.145.218
+ momoshop.com.tw 203.74.57.15
+Line Number:212 cbssports.com 151.101.65.188
+ cbssports.com 151.101.1.188
+Line Number:213 getadblock.com 172.67.27.164
+ getadblock.com 104.22.43.139
+Line Number:214 vporn.com 172.67.68.12
+ vporn.com 104.26.15.23
+Line Number:215 hp.com 15.72.164.74
+ hp.com 15.72.228.83
+Line Number:216 instructure.com 54.165.95.219
+ instructure.com 54.191.191.127
+Line Number:217 binance.com 3.114.202.124
+ binance.com 54.95.217.121
+Line Number:218 mercadolibre.com.ar 52.84.49.33
+ mercadolibre.com.ar 52.84.49.117
+Line Number:219 uidai.gov.in 103.57.226.101
+ uidai.gov.in 103.58.114.101
+Line Number:220 googlesyndication.com 216.58.213.164
+ googlesyndication.com 142.250.179.68
+Line Number:221 google.bg 142.250.201.163
+ google.bg 216.58.204.99
+Line Number:222 elpais.com 95.100.171.240
+ elpais.com 92.123.100.80
+Line Number:223 slickdeals.net 95.100.171.63
+ slickdeals.net 92.123.100.122
+Line Number:224 6198399e4910e66-ovc.com 23.20.193.48
+ 6198399e4910e66-ovc.com 18.205.135.125
+Line Number:225 google.lk 142.250.75.227
+ google.lk 142.250.178.131
+Line Number:226 trello.com 185.166.143.1
+ trello.com 185.166.143.2
+Line Number:227 ebc.net.tw 52.84.49.85
+ ebc.net.tw 99.86.91.2
+Line Number:228 gstatic.com 216.58.215.35
+ gstatic.com 172.217.18.195
+Line Number:229 ptt.cc 140.112.172.11
+ ptt.cc 140.112.172.1
+Line Number:230 brilio.net 104.199.214.191
+ brilio.net 35.229.226.215
+Line Number:231 pikabu.ru 91.228.152.42
+ pikabu.ru 5.187.0.134
+Line Number:232 force.com 184.25.179.132
+ force.com 23.1.99.130
+Line Number:233 cnzz.com 203.119.169.207
+ cnzz.com 203.119.169.175
+Line Number:234 reallifecam.com 107.182.230.212
+ reallifecam.com 185.80.221.89
+Line Number:235 olx.pl 54.192.219.40
+ olx.pl 52.222.174.27
+Line Number:236 ebay.it 64.4.253.29
+ ebay.it 64.4.253.77
+Line Number:237 google.rs 142.250.178.131
+ google.rs 142.250.201.163
+Line Number:238 mercadolibre.com.mx 54.240.167.10
+ mercadolibre.com.mx 52.222.174.66
+Line Number:239 americanexpress.com 95.100.112.167
+ americanexpress.com 23.45.236.85
+Line Number:240 search-privacy.online 199.59.242.153
+ search-privacy.online 72.52.179.175
+Line Number:241 hdfcbank.com 104.16.108.25
+ hdfcbank.com 104.16.107.25
+Line Number:242 ndtv.com 104.94.16.29
+ ndtv.com 104.120.216.93
+Line Number:243 skype.com 23.102.255.237
+ skype.com 40.121.80.200
+Line Number:244 bandcamp.com 151.101.193.28
+ bandcamp.com 151.101.1.28
+Line Number:245 seznam.cz 77.75.75.176
+ seznam.cz 77.75.74.172
+Line Number:246 onedio.com 104.20.15.37
+ onedio.com 104.20.14.37
+Line Number:247 albawabhnews.com 172.67.223.207
+ albawabhnews.com 104.21.70.135
+Line Number:248 google.co.nz 142.250.179.67
+ google.co.nz 142.250.75.227
+Line Number:249 m2f-body-swap-caption-by-ag-2.blogspot.com 142.250.201.161
+ m2f-body-swap-caption-by-ag-2.blogspot.com 172.217.18.193
+Line Number:250 maddieandtae.com 185.11.125.190
+ maddieandtae.com 192.230.66.190
+Line Number:251 magnabilities.com 44.239.56.218
+ magnabilities.com 54.201.211.184
+Line Number:252 magnushealthportal.com 96.45.82.179
+ magnushealthportal.com 96.45.82.7
+Line Number:253 maharlikanyc.com 198.185.159.145
+ maharlikanyc.com 198.49.23.145
+Line Number:254 makersmarkshop.com 52.222.174.82
+ makersmarkshop.com 52.84.49.82
+Line Number:255 makesmithcnc.squarespace.com 198.185.159.177
+ makesmithcnc.squarespace.com 198.49.23.176
+Line Number:256 malianteo.com 172.67.129.126
+ malianteo.com 104.21.1.157
+Line Number:257 mantravlsi.blogspot.com 216.58.204.97
+ mantravlsi.blogspot.com 172.217.18.193
+Line Number:258 mariettaga.gov 172.67.163.89
+ mariettaga.gov 104.21.90.249
+Line Number:259 marioncenterband.weebly.com 199.34.228.54
+ marioncenterband.weebly.com 199.34.228.53
+Line Number:260 marriedsexpartner.com 104.21.92.189
+ marriedsexpartner.com 172.67.197.32
+Line Number:261 marthascountrybakery.com 104.21.6.128
+ marthascountrybakery.com 172.67.134.221
+Line Number:262 martinadvisory.com 198.49.23.145
+ martinadvisory.com 198.185.159.145
+Line Number:263 maryannjacobsen.com 104.18.22.44
+ maryannjacobsen.com 104.18.23.44
+Line Number:264 mastermsbi.blogspot.com 216.58.204.97
+ mastermsbi.blogspot.com 172.217.18.193
+Line Number:265 matthewsmotorswilmington.com 52.3.158.178
+ matthewsmotorswilmington.com 54.86.91.237
+Line Number:266 mckennabreinholt.com 212.32.237.90
+ mckennabreinholt.com 212.32.237.101
+Line Number:267 medicaldoctor-studies.com 104.26.0.113
+ medicaldoctor-studies.com 104.26.1.113
+Line Number:268 meritagetherestaurant.com 13.248.217.239
+ meritagetherestaurant.com 76.223.88.23
+Line Number:269 mermaidhunter.com 192.0.78.243
+ mermaidhunter.com 192.0.78.133
+Line Number:270 merrimacktenpin.com 198.49.23.145
+ merrimacktenpin.com 198.185.159.144
+Line Number:271 mersea.restaurant 198.49.23.144
+ mersea.restaurant 198.185.159.144
+Line Number:272 mesotheliomaarticless.blogspot.com 216.58.204.97
+ mesotheliomaarticless.blogspot.com 172.217.18.193
+Line Number:273 metalcloak.com 104.22.71.127
+ metalcloak.com 104.22.70.127
+Line Number:274 metropoliscoffee.com 104.26.15.158
+ metropoliscoffee.com 172.67.71.97
+Line Number:275 meyersgaz.org 54.192.219.84
+ meyersgaz.org 216.137.37.98
+Line Number:276 michaelprescott.typepad.com 104.18.139.190
+ michaelprescott.typepad.com 104.18.137.190
+Line Number:277 michigancichlid.com 104.21.88.72
+ michigancichlid.com 172.67.174.5
+Line Number:278 mickeyavalon.com 198.49.23.144
+ mickeyavalon.com 198.185.159.145
+Line Number:279 midwestmasterbeekeeper.org 192.0.78.243
+ midwestmasterbeekeeper.org 192.0.78.151
+Line Number:280 mikestarringpassages.blogspot.com 142.250.201.161
+ mikestarringpassages.blogspot.com 172.217.18.193
+Line Number:281 mikinsins.wordpress.com 192.0.78.13
+ mikinsins.wordpress.com 192.0.78.12
+Line Number:282 millenniumrestaurant.com 198.49.23.145
+ millenniumrestaurant.com 198.185.159.144
+Line Number:283 milliesdiner.com 185.230.63.107
+ milliesdiner.com 185.230.63.186
+Line Number:284 mindsphere.io 3.120.65.24
+ mindsphere.io 3.121.103.146
+Line Number:285 minervacanna.com 185.230.63.186
+ minervacanna.com 185.230.63.107
+Line Number:286 mintyhole.tumblr.com 74.114.154.22
+ mintyhole.tumblr.com 74.114.154.18
+Line Number:287 mirrormiester.blogspot.com 142.250.201.161
+ mirrormiester.blogspot.com 172.217.18.193
+Line Number:288 mirus.com 172.67.131.223
+ mirus.com 104.21.4.87
+Line Number:289 miss-poizon.tumblr.com 74.114.154.22
+ miss-poizon.tumblr.com 74.114.154.18
+Line Number:290 missfame.tumblr.com 74.114.154.22
+ missfame.tumblr.com 74.114.154.18
+Line Number:291 modish-kitten.net 5.79.68.109
+ modish-kitten.net 37.48.65.152
+Line Number:292 molinaros.com 75.2.70.75
+ molinaros.com 99.83.190.102
+Line Number:293 mollysatthemarket.net 198.49.23.145
+ mollysatthemarket.net 198.185.159.145
+Line Number:294 monbento.com 35.180.149.194
+ monbento.com 15.236.115.243
+Line Number:295 monkeyremix.com 212.32.237.90
+ monkeyremix.com 23.82.12.32
+Line Number:296 moorechryslerdodgejeepram.com 2.16.186.153
+ moorechryslerdodgejeepram.com 96.16.249.10
+Line Number:297 mooseintl.org 151.139.128.10
+ mooseintl.org 151.139.128.11
+Line Number:298 mostinterestinglook.com 104.21.10.140
+ mostinterestinglook.com 172.67.190.114
+Line Number:299 mountainvalleygrowers.com 35.162.64.27
+ mountainvalleygrowers.com 35.167.221.83
+Line Number:300 movaglobes.com 151.101.193.124
+ movaglobes.com 151.101.1.124
+Line Number:301 mpcow.org 172.67.150.83
+ mpcow.org 104.21.79.247
+Line Number:302 mptcs.org 184.72.49.125
+ mptcs.org 54.204.24.19
+Line Number:303 mrsnatasharomanov.tumblr.com 74.114.154.18
+ mrsnatasharomanov.tumblr.com 74.114.154.22
+Line Number:304 msarends.weebly.com 199.34.228.54
+ msarends.weebly.com 199.34.228.53
+Line Number:305 murraystatejobs.com 52.217.81.75
+ murraystatejobs.com 52.216.8.122
+Line Number:306 musicproinsurance.com 54.161.158.86
+ musicproinsurance.com 34.231.123.188
+Line Number:307 musicridersingles.blogspot.com 216.58.204.97
+ musicridersingles.blogspot.com 216.58.213.129
+Line Number:308 mybenefitexpress.com 52.202.55.230
+ mybenefitexpress.com 52.20.147.79
+Line Number:309 mycatholicfaithdelivered.com 52.43.95.219
+ mycatholicfaithdelivered.com 52.38.56.225
+Line Number:310 myconnecticare.com 34.213.106.51
+ myconnecticare.com 54.68.182.72
+Line Number:311 myeasypayfinance.com 104.21.8.135
+ myeasypayfinance.com 172.67.188.120
+Line Number:312 mykokofitclub.com 184.73.219.220
+ mykokofitclub.com 54.225.207.98
+Line Number:313 mynwoodcatjackets.co.uk 198.185.159.144
+ mynwoodcatjackets.co.uk 198.49.23.144
+Line Number:314 elementum.si 104.21.69.102
+ elementum.si 172.67.207.105
+Line Number:315 eventsandcompany.com 172.67.172.225
+ eventsandcompany.com 104.21.30.116
+Line Number:316 expelumos.tumblr.com 74.114.154.18
+ expelumos.tumblr.com 74.114.154.22
+Line Number:317 fenzy.me 78.41.204.31
+ fenzy.me 78.41.204.29
+Line Number:318 fixategelpads.com 185.230.63.107
+ fixategelpads.com 185.230.63.186
+Line Number:319 floralparkfd.com 173.239.5.6
+ floralparkfd.com 213.247.47.190
+Line Number:320 fokuspokus.si 104.21.13.150
+ fokuspokus.si 172.67.200.160
+Line Number:321 fortruss.blogspot.si 216.58.204.97
+ fortruss.blogspot.si 216.58.213.129
+Line Number:322 franceweddingplanner.com 104.21.33.186
+ franceweddingplanner.com 172.67.191.65
+Line Number:323 franscraps.blogspot.si 216.58.204.97
+ franscraps.blogspot.si 216.58.213.129
+Line Number:324 freeones.si 91.216.104.92
+ freeones.si 91.216.104.93
+Line Number:325 g-kabel.si 104.21.12.246
+ g-kabel.si 172.67.196.197
+Line Number:326 gamespace.gr 104.21.32.198
+ gamespace.gr 172.67.154.115
+Line Number:327 girls4u2015.tumblr.com 74.114.154.22
+ girls4u2015.tumblr.com 74.114.154.18
+Line Number:328 globalno.org 172.67.159.174
+ globalno.org 104.21.14.144
+Line Number:329 grounderbellamy-archive.tumblr.com 74.114.154.22
+ grounderbellamy-archive.tumblr.com 74.114.154.18
+Line Number:330 gurkhan.blogspot.si 216.58.204.97
+ gurkhan.blogspot.si 216.58.213.129
+Line Number:331 heimdall.si 104.21.71.119
+ heimdall.si 172.67.144.205
+Line Number:332 helena-golenhofen.blogspot.si 216.58.204.97
+ helena-golenhofen.blogspot.si 216.58.213.129
+Line Number:333 hotbignipples.tumblr.com 74.114.154.18
+ hotbignipples.tumblr.com 74.114.154.22
+Line Number:334 idrija.com 185.230.63.186
+ idrija.com 185.230.63.107
+Line Number:335 ifa-international.org 192.0.78.143
+ ifa-international.org 192.0.78.202
+Line Number:336 intothemysticseasons.tumblr.com 74.114.154.22
+ intothemysticseasons.tumblr.com 74.114.154.18
+Line Number:337 javahungry.blogspot.si 216.58.204.97
+ javahungry.blogspot.si 216.58.209.225
+Line Number:338 jeremiahlee.com 172.67.179.157
+ jeremiahlee.com 104.21.31.195
+Line Number:339 justbesttoys.com 104.21.83.48
+ justbesttoys.com 172.67.214.98
+Line Number:340 kartem.si 185.230.63.186
+ kartem.si 185.230.63.107
+Line Number:341 katoliska-cerkev.si 104.21.8.125
+ katoliska-cerkev.si 172.67.157.89
+Line Number:342 kemstudios.blogspot.si 216.58.204.97
+ kemstudios.blogspot.si 216.58.209.225
+Line Number:343 kkrogaska.si 216.239.34.21
+ kkrogaska.si 216.239.36.21
+Line Number:344 koledarjiinprazniki.blogspot.si 216.58.204.97
+ koledarjiinprazniki.blogspot.si 216.58.209.225
+Line Number:345 koroskenovice.si 104.21.77.125
+ koroskenovice.si 172.67.207.237
+Line Number:346 kranjska.blogspot.si 216.58.204.97
+ kranjska.blogspot.si 216.58.209.225
+Line Number:347 kruhinvino.com 192.0.78.24
+ kruhinvino.com 192.0.78.25
+Line Number:348 ksanner.tumblr.com 74.114.154.22
+ ksanner.tumblr.com 74.114.154.18
+Line Number:349 kvarkadabra.net 104.21.10.183
+ kvarkadabra.net 172.67.190.200
+Line Number:350 leva-desna.blogspot.si 216.58.204.97
+ leva-desna.blogspot.si 216.58.209.225
+Line Number:351 lianazanfrisco.com 62.149.128.74
+ lianazanfrisco.com 62.149.128.157
+Line Number:352 lukemagnus-deactivated20180125.tumblr.com 74.114.154.18
+ lukemagnus-deactivated20180125.tumblr.com 74.114.154.22
+Line Number:353 maltauncovered.com 104.21.25.166
+ maltauncovered.com 172.67.134.100
+Line Number:354 matzapiski.si 104.21.55.134
+ matzapiski.si 172.67.148.50
+Line Number:355 maxisport.si 104.26.13.220
+ maxisport.si 172.67.72.172
+Line Number:356 mccabism.blogspot.si 216.58.204.97
+ mccabism.blogspot.si 216.58.209.225
+Line Number:357 michaeleducationalfoundation.com 185.230.63.186
+ michaeleducationalfoundation.com 185.230.63.107
+Line Number:358 middlemaybooks.com 192.0.78.25
+ middlemaybooks.com 192.0.78.24
+Line Number:359 mikstone1.blogspot.si 216.58.204.97
+ mikstone1.blogspot.si 216.58.209.225
+Line Number:360 mincikuha.blogspot.si 216.58.204.97
+ mincikuha.blogspot.si 216.58.209.225
+Line Number:361 mmmmatures.tumblr.com 74.114.154.18
+ mmmmatures.tumblr.com 74.114.154.22
+Line Number:362 muzikazaponeti.com 172.67.213.184
+ muzikazaponeti.com 104.21.86.7
+Line Number:363 myheritage.si 45.60.11.42
+ myheritage.si 45.60.13.42
+Line Number:364 nadskofija-ljubljana.si 172.67.145.49
+ nadskofija-ljubljana.si 104.21.33.130
+Line Number:365 newvisionsmedical.com 172.67.150.15
+ newvisionsmedical.com 104.21.63.203
+Line Number:366 normiran.si 172.67.178.162
+ normiran.si 104.21.31.165
+Line Number:367 nuderussianpussy.com 213.247.47.190
+ nuderussianpussy.com 173.239.5.6
+Line Number:368 operationdisclosure.blogspot.si 216.58.204.97
+ operationdisclosure.blogspot.si 216.58.213.129
+Line Number:369 opisipoti.blogspot.si 216.58.204.97
+ opisipoti.blogspot.si 216.58.213.129
+Line Number:370 palanok.org.ua 172.67.219.20
+ palanok.org.ua 104.21.78.91
+Line Number:371 pensandplanners.tumblr.com 74.114.154.22
+ pensandplanners.tumblr.com 74.114.154.18
+Line Number:372 permakulturazatelebane.wordpress.com 192.0.78.13
+ permakulturazatelebane.wordpress.com 192.0.78.12
+Line Number:373 pgd-moste.si 172.67.180.180
+ pgd-moste.si 104.21.18.63
+Line Number:374 picktorial.com 34.209.99.60
+ picktorial.com 52.37.23.205
+Line Number:375 pinkandgreenmama.blogspot.si 216.58.204.97
+ pinkandgreenmama.blogspot.si 216.58.213.129
+Line Number:376 potovanje-skozi-zivljenje.blogspot.si 216.58.204.97
+ potovanje-skozi-zivljenje.blogspot.si 216.58.213.129
+Line Number:377 prerokovanje.net 172.67.211.89
+ prerokovanje.net 104.21.91.68
+Line Number:378 ravnazemlja.wordpress.com 192.0.78.13
+ ravnazemlja.wordpress.com 192.0.78.12
+Line Number:379 reclaimedbricktiles.blogspot.si 216.58.204.97
+ reclaimedbricktiles.blogspot.si 216.58.213.129
+Line Number:380 regus.si 45.60.196.10
+ regus.si 45.60.206.10
+Line Number:381 roguecart.com 52.53.81.107
+ roguecart.com 52.9.110.150
+Line Number:382 rubinreport.com 44.238.18.128
+ rubinreport.com 52.38.38.132
+Line Number:383 sacredscribesangelnumbers.blogspot.si 216.58.204.97
+ sacredscribesangelnumbers.blogspot.si 216.58.213.129
